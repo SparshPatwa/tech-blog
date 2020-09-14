@@ -10,6 +10,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Deployment](#deployment)
 - [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
@@ -19,6 +20,9 @@
 
 ## Usage
 💻 npm start run 
+
+## Deployment  
+🛳 [Heroku Application](https://the-techblog.herokuapp.com/)  
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
