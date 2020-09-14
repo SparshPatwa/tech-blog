@@ -11,6 +11,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Deployment](#deployment)
+- [Demonstration](#demonstration)
 - [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
@@ -23,6 +24,9 @@
 
 ## Deployment  
 🛳 [Heroku Application](https://the-techblog.herokuapp.com/)  
+
+## Demonstration  
+🎥 [Video Walkthrough](./public/assets/techblog_video-walkthrough.mov)  
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
